@@ -1,0 +1,11 @@
+@font-face {
+  font-family: lora_custom;
+  src: url("./fonts/Lora-Regular.ttf");
+}
+@font-face {
+  font-family: merri_weather;
+  src: url("./fonts/Merriweather-Regular.ttf");
+}
+body,html{
+
+}
